@@ -2,8 +2,8 @@
 A Kannada font i am working on.
 
 I intend to create variants of this font 
-- Dot Matrix font named "Chukki"
-- Stitch like looking font named "Daara"
+- Chukki - Dot Matrix font
+- Daara - Thread/Stitch like font
 
 **Special Thanks:**
 
