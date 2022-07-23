@@ -1,4 +1,4 @@
-!(https://github.com/kishorechan/Nishchaya/blob/main/Nishchaya%20Kannada%20Font.png)
+![Nishchaya Kannada font](https://github.com/kishorechan/Nishchaya/blob/main/Nishchaya%20Kannada%20Font.png)
 # Nishchaya
 A Kannada font i am working on. 
 
