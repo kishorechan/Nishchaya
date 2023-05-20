@@ -12,7 +12,9 @@ I intend to create variants of this font
 - Hosabaraha - A font without Mahapranas with aim to simplify Kannada
 
 **Special Thanks:**
+
 Shankar Shivarajan
+
 I view these videos to create this font.
 Mohamud Abdullah - https://www.youtube.com/watch?v=S3HPpImq194
 Sudarshan/Sirharsha - https://www.youtube.com/watch?v=iwtrpEy7wu0
